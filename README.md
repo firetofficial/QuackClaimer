@@ -23,7 +23,7 @@
 
 ## About The Project
 
-![Screen Shot](https://i.imgur.com/LU1590k.jpeg)
+![Screen Shot](https://i.imgur.com/hASRbLM.png)
 
 This is simply a tool to automate the egg claiming process in the "Quack Quack" game. 
 
