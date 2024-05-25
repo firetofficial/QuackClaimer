@@ -1,5 +1,10 @@
+> **Warning**
+> Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 <br/>
 <p align="center">
+  <a href="https://github.com/firetofficial/QuackClaimer">
+    <img src="https://cdn5.cdn-telegram.org/file/v47li6HfSyq3wEBnOW_ndKVQYh4nGbACF-yNX0DACwRo4ZXlbEWouuJcn2CfGw9xX76Ux6TU3kfLJ1OnNtVif2mKIKm2WiGXzSaZM1ltgsb_FO6gUOrdakiiKMXF2spiF2ln5bGYzZn2jSSomRhdF2kRMnkjcFubvfBk1ri92SFx2Pif6kvR9qCqc6lDte4Zumdp77XAnaYGC3VrJia42doxBip_xOMrS_VaHDlZWQp-ufldpH5Pk3BhbfYVaSAGU0N0PibSyjwfiUicFRuOuIUIBRDqFqzfk18BNtgOiIwUCqpyPQbmvGgLSau_pUe6Aes9f6ywyMS4tKe4Hx8DBQ.jpg" alt="Logo" width="80" height="80">
+  </a>
   <h3 align="center">QuackClaimer</h3>
 
   <p align="center">
@@ -19,7 +24,6 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -88,4 +92,16 @@ https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb
 
 ## Authors
 
-* **FireT** - *GDU Student* - [FireT](https://github.com/firetofficial) 
+* **FireT** - *GDU Student* - [FireT](https://github.com/firetofficial)
+
+## Contributing
+
+Contributions are always welcome!
+
+To contribute, fork this repository and improve it. After that, press the contribute button.
+
+
+## Feedback / Issues / Request for takedown
+
+If you have any feedback or issues running the code, please reach out to me at [Tele: @firet_official](https://t.me/firet_official)
+
