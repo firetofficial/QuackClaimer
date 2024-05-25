@@ -71,6 +71,14 @@ pip install requests
 ```sh
 python main.py
 ```
+
+### Getting Your Token
+To use QuackClaimer, you need to obtain your token from the "Quack Quack" game. Watch the following video for instructions:
+
+
+https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb7-9abc-53586d42f371
+
+
 ## Usage
 - Ensure you have your tokens ready.
 - Run the main script main.py.
