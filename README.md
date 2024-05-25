@@ -94,12 +94,6 @@ https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb
 
 * **FireT** - *GDU Student* - [FireT](https://github.com/firetofficial)
 
-## Contributing
-
-Contributions are always welcome!
-
-To contribute, fork this repository and improve it. After that, press the contribute button.
-
 
 ## Feedback / Issues / Request for takedown
 
