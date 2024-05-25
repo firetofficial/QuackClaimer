@@ -14,6 +14,7 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
+* [Features](#features)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -29,7 +30,19 @@ This is simply a tool to automate the egg claiming process in the "Quack Quack" 
 ## Built With
 
 - [Python](https://www.python.org/)
+  
+## Features
 
+### Current Features
+- Automated egg claiming process based on user configurations.
+- Filtering out rare eggs to avoid claiming them.
+- Support for multiple accounts.
+
+### Future Updates
+- Enhanced user interface with graphical elements.
+- Claim golden ducks.
+- Speed improvement for faster egg claiming.
+  
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
