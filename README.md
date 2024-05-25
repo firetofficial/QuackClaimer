@@ -20,6 +20,7 @@
 * [Features](#features)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
+  * [Getting Your Token](#getting-your-token)
 * [Usage](#usage)
 * [Authors](#authors)
 
