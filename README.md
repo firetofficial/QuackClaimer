@@ -1,5 +1,3 @@
-> **Warning**
-> Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 <br/>
 <p align="center">
   <a href="https://github.com/firetofficial/QuackClaimer">
@@ -88,7 +86,8 @@ https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb
 - Run the main script main.py.
 - Follow the prompts to input your tokens and configure the minimum number of eggs to claim.
 - The tool will then start claiming eggs automatically based on your configurations.
-
+> **Warning**
+> Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
 ## Authors
 
