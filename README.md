@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/firetofficial/QuackClaimer">
-    <img src="https://cdn5.cdn-telegram.org/file/v47li6HfSyq3wEBnOW_ndKVQYh4nGbACF-yNX0DACwRo4ZXlbEWouuJcn2CfGw9xX76Ux6TU3kfLJ1OnNtVif2mKIKm2WiGXzSaZM1ltgsb_FO6gUOrdakiiKMXF2spiF2ln5bGYzZn2jSSomRhdF2kRMnkjcFubvfBk1ri92SFx2Pif6kvR9qCqc6lDte4Zumdp77XAnaYGC3VrJia42doxBip_xOMrS_VaHDlZWQp-ufldpH5Pk3BhbfYVaSAGU0N0PibSyjwfiUicFRuOuIUIBRDqFqzfk18BNtgOiIwUCqpyPQbmvGgLSau_pUe6Aes9f6ywyMS4tKe4Hx8DBQ.jpg" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/nyW0Jbe.jpeg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">QuackClaimer</h3>
 
