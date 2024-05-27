@@ -87,7 +87,7 @@ https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb
 - Run the main script main.py.
 - Follow the prompts to input your tokens and configure the minimum number of eggs to claim.
 - The tool will then start claiming eggs automatically based on your configurations.
-- 
+  
 ## Running on Mobile
 QuackClaimer can also be run on mobile devices using Termux (Android) or iSH (iOS).
 
@@ -107,7 +107,7 @@ cd QuackClaimer
 ```
 5. Install the required packages:
 ```sh
-pip install requests
+pip install request
 ```
 6. Run the application main.py:
 ```sh
