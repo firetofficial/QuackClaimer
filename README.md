@@ -22,6 +22,9 @@
   * [Installation](#installation)
   * [Getting Your Token](#getting-your-token)
 * [Usage](#usage)
+* [Video Guides](#video-guides)
+  * [PC Guide](#pc-guide)
+  * [Mobile Guide](#mobile-guide)
 * [Authors](#authors)
 
 ## About The Project
@@ -113,6 +116,13 @@ pip install request
 ```sh
 python main.py
 ```
+## Video Guides
+### PC Guide 
+- https://vt.tiktok.com/ZSY23NjRp/
+### Mobile Guide
+- coming soon
+
+
 > **Warning**
 > Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
