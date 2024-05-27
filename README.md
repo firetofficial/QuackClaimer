@@ -51,7 +51,7 @@ This is simply a tool to automate the egg claiming process in the "Quack Quack" 
 To get a local copy up and running, follow these simple steps:
 
 ### Installation
-
+> Make sure you have Python (3.11) installed
 1. Clone the repo
 
 ```sh
