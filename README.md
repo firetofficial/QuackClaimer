@@ -12,6 +12,13 @@
   </p>
 </p>
 
+⭐️ **QuackClaimer tool update announcement:**
+
+- Updated to automatically restart when the game lags/game crashes.
+- Automatically hit the golden duck.
+- Improved speed.
+
+In addition, currently because the game server is lagging, the tool will sometimes be slow due to the impact (not the tool's fault). Just be patient and wait...
 
 ## Table Of Contents
 
