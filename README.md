@@ -139,6 +139,5 @@ python main.py
 
 
 ## Feedback / Issues / Request for takedown
-
-If you have any feedback or issues running the code, please reach out to me at [Tele: @firet_official](https://t.me/firet_official)
-
+If you have any feedback or issues running the code, please reach out to the community at [Tele: @zythsoft](https://t.me/zythsoft)
+If you have any requests for takedown or have ideas for other games, please contact me directly at [Tele: @firet_official](https://t.me/firet_official)
