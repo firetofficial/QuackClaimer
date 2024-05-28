@@ -12,9 +12,9 @@
   </p>
 </p>
 
-⭐️ **QuackClaimer tool update announcement:**
+⭐️ **Update:**
 
-- Updated to automatically restart when the game lags/game crashes.
+- Automatically restart when the game lags/game crashes.
 - Automatically hit the golden duck.
 - Improved speed.
 
