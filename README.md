@@ -42,7 +42,7 @@ This is simply a tool to automate the egg claiming process in the "Quack Quack" 
 
 ## Link to play Quack Quack game
 
-[https://t.me/quackquack_game...](https://t.me/quackquack_game_bot?start=JjpxaUV31D)
+- [https://t.me/quackquack_game...](https://t.me/quackquack_game_bot?start=JjpxaUV31D)
 
 ## Built With
 
