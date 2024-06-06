@@ -40,10 +40,14 @@ In addition, currently because the game server is lagging, the tool will sometim
 
 This is simply a tool to automate the egg claiming process in the "Quack Quack" game. 
 
+## Link to play Quack Quack game
+
+[https://t.me/quackquack_game...](https://t.me/quackquack_game_bot?start=JjpxaUV31D)
+
 ## Built With
 
 - [Python](https://www.python.org/)
-  
+
 ## Features
 
 ### Current Features
