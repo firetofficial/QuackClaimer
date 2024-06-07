@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/firetofficial/QuackClaimer">
-    <img src="https://cdn5.cdn-telegram.org/file/v47li6HfSyq3wEBnOW_ndKVQYh4nGbACF-yNX0DACwRo4ZXlbEWouuJcn2CfGw9xX76Ux6TU3kfLJ1OnNtVif2mKIKm2WiGXzSaZM1ltgsb_FO6gUOrdakiiKMXF2spiF2ln5bGYzZn2jSSomRhdF2kRMnkjcFubvfBk1ri92SFx2Pif6kvR9qCqc6lDte4Zumdp77XAnaYGC3VrJia42doxBip_xOMrS_VaHDlZWQp-ufldpH5Pk3BhbfYVaSAGU0N0PibSyjwfiUicFRuOuIUIBRDqFqzfk18BNtgOiIwUCqpyPQbmvGgLSau_pUe6Aes9f6ywyMS4tKe4Hx8DBQ.jpg" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/nyW0Jbe.jpeg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">QuackClaimer</h3>
 
@@ -12,6 +12,13 @@
   </p>
 </p>
 
+⭐️ **Update:**
+
+- Automatically restart when the game lags/game crashes.
+- Automatically hit the golden duck.
+- Improved speed.
+
+In addition, currently because the game server is lagging, the tool will sometimes be slow due to the impact (not the tool's fault). Just be patient and wait...
 
 ## Table Of Contents
 
@@ -22,6 +29,9 @@
   * [Installation](#installation)
   * [Getting Your Token](#getting-your-token)
 * [Usage](#usage)
+* [Video Guides](#video-guides)
+  * [PC Guide](#pc-guide)
+  * [Mobile Guide](#mobile-guide)
 * [Authors](#authors)
 
 ## About The Project
@@ -30,10 +40,14 @@
 
 This is simply a tool to automate the egg claiming process in the "Quack Quack" game. 
 
+## Link to play Quack Quack game
+
+- [https://t.me/quackquack_game...](https://t.me/quackquack_game_bot?start=JjpxaUV31D)
+
 ## Built With
 
 - [Python](https://www.python.org/)
-  
+
 ## Features
 
 ### Current Features
@@ -51,7 +65,7 @@ This is simply a tool to automate the egg claiming process in the "Quack Quack" 
 To get a local copy up and running, follow these simple steps:
 
 ### Installation
-
+> Make sure you have Python (3.11) installed
 1. Clone the repo
 
 ```sh
@@ -87,7 +101,7 @@ https://github.com/firetofficial/QuackClaimer/assets/120646974/00fd9778-d211-4eb
 - Run the main script main.py.
 - Follow the prompts to input your tokens and configure the minimum number of eggs to claim.
 - The tool will then start claiming eggs automatically based on your configurations.
-- 
+  
 ## Running on Mobile
 QuackClaimer can also be run on mobile devices using Termux (Android) or iSH (iOS).
 
@@ -107,12 +121,19 @@ cd QuackClaimer
 ```
 5. Install the required packages:
 ```sh
-pip install requests
+pip install request
 ```
 6. Run the application main.py:
 ```sh
 python main.py
 ```
+## Video Guides
+### PC Guide 
+- https://vt.tiktok.com/ZSY23NjRp/
+### Mobile Guide
+- coming soon
+
+
 > **Warning**
 > Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
@@ -122,6 +143,5 @@ python main.py
 
 
 ## Feedback / Issues / Request for takedown
-
-If you have any feedback or issues running the code, please reach out to me at [Tele: @firet_official](https://t.me/firet_official)
-
+- If you have any feedback or issues running the code, please reach out to the community at [Tele: @zythsoft](https://t.me/zythsoft)
+- If you have any requests for takedown or have ideas for other games, please contact me directly at [Tele: @firet_official](https://t.me/firet_official)
